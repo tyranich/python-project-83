@@ -272,6 +272,17 @@ files = [
 six = ">=1.5"
 
 [[package]]
+name = "railway"
+version = "0.0.4"
+description = "Infrastructure, Instantly"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "railway-0.0.4-py3-none-any.whl", hash = "sha256:7e42035494bf107bee9a81a6ccb8f7cd288a59423309a02f737b6c38a9edd964"},
+    {file = "railway-0.0.4.tar.gz", hash = "sha256:b45aab1b360c7648d5d1993618d118f918c9cfe18f8a31d86a59b81c9439bb41"},
+]
+
+[[package]]
 name = "setuptools"
 version = "67.8.0"
 description = "Easily download, build, install, upgrade, and uninstall Python packages"
@@ -318,4 +329,4 @@ watchdog = ["watchdog (>=2.3)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "e22def79f7f7bd73c3372a664779c98c46ea9b656c811e3965ebd83923e6c324"
+content-hash = "014aacf11a475ee1d1f00ba269047a0540deb7c4e7fb3f8c136ac36a2169f4b2"
