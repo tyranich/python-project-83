@@ -31,7 +31,7 @@ version = "2.3.2"
 description = "A simple framework for building complex web applications."
 category = "main"
 optional = false
-python-versions = "empty"
+python-versions = ">=3.8"
 
 [package.dependencies]
 blinker = ">=1.6.2"
